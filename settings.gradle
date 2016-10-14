@@ -1,0 +1,1 @@
+include ':app', ':fruit', ':androidthreadtest'
